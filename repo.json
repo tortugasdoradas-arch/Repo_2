@@ -440,6 +440,23 @@
       "extracted": 2486389,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "MAX",
+      "title": "Max Payne",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Max Payne Mobile para swiitch es una de las adaptaciones de PC más fieles y mejor logradas de la industria\n\nEl juego traslada toda la cruda historia neo-noir del clásico de 2001 directamente a la palma de tu mano, manteniendo intacto su icónico sistema Bullet Time y su excelente narrativa\n\nTrama oscura: Controlas a Max, un agente encubierto incriminado en un asesinato que no cometió mientras busca venganza por el homicidio de su familia\n\nFormato cómic: Las cinemáticas se narran a través de paneles de novela gráfica con el doblaje en español original intacto\n\nResolución mejorada: Cuenta con texturas en alta definición y efectos de iluminación superiores a los de las versiones de consola originales (PS2/Xbox)\n\nOptimización: Funciona a 60 FPS estables\n\nControles táctiles: Dispone de sticks virtuales personalizables y ayudas de apuntado automático para mitigar la falta de ratón y teclado\n\nPuntos críticos: Los tiroteos normales son fluidos gracias al Bullet Time, pero los saltos de precisión en plataformas o apuntar verticalmente en espacios reducidos (como en los viajes en ascensor) resultan frustrantes con pantallas táctiles\n\nSoporte para Mandos: Es totalmente compatible con controles inalámbricos y gamepads USB, siendo esta la opción recomendada para disfrutarlo al máximo\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/MAX.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/maxpayne/max_nx.nro",
+      "filesize": 631490,
+      "extracted": 785213,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
