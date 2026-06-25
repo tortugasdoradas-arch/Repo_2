@@ -457,6 +457,24 @@
       "extracted": 785213,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "BULLY",
+      "title": "Bully: Anniversary Edition",
+      "author": "givethesourceplox",
+      "version": "0.0.2",
+      "description": "Port Android",
+      "details": "NOTA: no se desesperen, tarda un poco al cargar al abrir el juego, el juego funciona peor quizas requiera un ligero overclock para sentir que todo va en forma, Recuerden que esta en sus primeras fases de lanzamiento\n\nBully: Anniversary Edition es una excelente adaptación a la consola switch del clásico de culto de Rockstar Games\n\nEl juego brilla por su absorbente historia, su mundo abierto estilo sandbox y su reciente reestructuración técnica que garantiza estabilidad en dispositivos modernos\n\nHistoria inmersiva: Controlas a Jimmy Hopkins mientras navegas por el sistema corrupto y decadente de la Academia Bullworth, enfrentándote a bravucones y profesores\n\nContenido completo: Esta edición incluye el juego original, misiones secundarias exclusivas y cuatro clases extra\n\nRendimiento optimizado: Gracias a las actualizaciones recientes, el juego aprovecha los procesadores modernos\n\nPantalla táctil: Aunque los controles en pantalla funcionan bien, la experiencia con un mando externo (bluetooth) es más precisa\n\nDuración: Dependiendo de si te detienes a explorar o hacer misiones secundarias, tu partida puede durar entre 8 y más de 67 hora\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/BULL_1.zip",
+      "zip_url_2": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/BULL_2.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/bully/bully_nx.nro",
+      "filesize": 2981807,
+      "extracted": 3005543,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
