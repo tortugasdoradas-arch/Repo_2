@@ -405,6 +405,23 @@
       "extracted": 595902,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "LAYTON3",
+      "title": "Layton - Futuro Perdido",
+      "author": "NaGaa",
+      "version": "1.0.2",
+      "description": "Port Android",
+      "details": "El profesor Layton y el futuro perdido en HD (Layton 3) es una de las mejores remasterizaciones de un juego de Nintendo DS disponibles para Nintendo Switch. Conserva toda la magia y la emotiva historia de la entrega original de Level-5 con una calidad visual excelente\n\nPremisa intrigante: El profesor Layton y su aprendiz Luke reciben una misteriosa carta enviada por el propio Luke pero dentro de 10 años en el futuro\n\nTrama atrapante: La narrativa destaca por sus giros de guion, el caos de un Londres futurista y una enorme carga emocional que la convierte en la favorita de la saga para muchos fans\n\nCinemáticas impecables: El juego incluye cinemáticas estilo anime totalmente remasterizadas con voces al español.\n\nControles táctiles naturales: La interfaz se adapta perfectamente a pantallas móviles. El dedo sustituye por completo al lápiz táctil (stylus) original\n\nPuzles en HD: Cuenta con más de 160 acertijos lógicos, matemáticos y de ingenio. Todos lucen definidos en alta resolución.\n\nSistema de pistas: Mantiene el uso de monedas para desbloquear ayudas si te encallas en algún acertijo\n\nLavado de cara digital: Los fondos dibujados a mano y los modelos de los personajes fueron rediseñados en alta definición.\n\nBanda sonora: Las pistas musicales acústicas mantienen una excelente fidelidad de audio en dispositivos móviles.\n\nMODO JUEGO:\nEl juego es totalmente touch asi que podran usar las pantalla para jugar, es posible usar los botones aunque no es tan comodo\n\nMODO PANTALLA:\nEl juego esta configurado para usar la switch en modo horizontal (normal), sin embargo esto hara que la pantalla no ocupe la capacidad total de la switch\n\nEs posible cambair el modo de la pantalla para usar la switch en modo vertical\n\nPara cambiar el modo de la pantalla solo editen el archivo que esta en la carpeta Layton3 en su carpeta switch, el archivo se llama config.txt, busquen la opcion portrait, actualmente esta en 0 (horizontal), cambien el 0 por un 1 para poner la pantalla en vertical\n\nLa pantalla horizontal (0) tiene la ventaja de usar la consola en forma normal y los video se reproduciran en la pantalla completa , pero el area de juego al ser de Nintendo DS reducira su espacio durante el juego normal, lo que signidfica texto mas pequeño e imagenes mas pequeñas\n\nLa pantalla vertical (1) tiene la ventaja de mostrar la pantalla de juego mas amplia y veremos textos e imagenes mas grandes, los videos se reduciran un poco para ocupar el ancho de la pantalla, y debemos usar la consola en vertical lo cual algunospuede no gustarles\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/LAYTON3.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/layton3/layton3_nx.nro",
+      "filesize": 1434026,
+      "extracted": 1515245,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
