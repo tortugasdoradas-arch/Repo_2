@@ -354,6 +354,23 @@
       "extracted": 1050322,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "FINAL4",
+      "title": "Final Fantasy IV: The After Years",
+      "author": "NaGaa",
+      "version": "1.0.1",
+      "description": "Port Android",
+      "details": "Final Fantasy IV: The After Years es una secuela directa orientada a los fanáticos nostálgicos del juego original, que destaca por su transición al modelado 3D pero peca de repetitiva y dependiente del farmeo intenso.\n\nLanzada en dispositivos móviles tomando como base el motor del remake tridimensional de Nintendo DS, esta entrega divide opiniones debido a su estructura episódica y al reciclaje masivo de escenarios\n\nSalto Temporal: Los hechos ocurren unos 17 años después del Final Fantasy IV original\n\nProtagonista: El peso inicial cae sobre Ceodore, el hijo de Cecil y Rosa\n\nFormato Episódico: El juego se divide en 10 relatos jugables. Al completar el primero, puedes jugar las historias de los personajes clásicos en el orden que prefieras antes de encarar los capítulos finales\n\nEl Conflicto: Una nueva Luna aparece en el cielo, los Cristales comienzan a perder su poder y una misteriosa raza conocida como las Maenads amenaza la estabilidad del planeta azul.\n\nEl sistema mantiene las bases del clásico juego de rol japonés (JRPG) por turnos dinámicos (Active Time Battle), pero añade mecánicas estratégicas interesantes\n\nFases Lunares: La luna cambia al descansar en posadas o carpas. Cada fase lunar altera el daño que causan tus ataques físicos o mágicos, lo que te obliga a planificar los combates.\n\nAtaques de Banda (Bands): Permite que varios personajes unan fuerzas para ejecutar devastadoras técnicas combinadas consumiendo puntos de magia\n\nDificultad Elevada: El nivel de reto es significativamente más alto que en el juego original. Morirás seguido si no te preparas bien\n\nGráficos 3D: Sustituye el estilo de pixeles clásico por personajes poligonales cabezones (chibi). Aunque son funcionales y expresivos en cinemáticas, para la fecha actual lucen anticuados.\n\nEl control táctil está bien adaptado para moverte por los mapas y menús cómodos para el combate táctil\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/FINAL4.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/ff4tay/ff4tay_nx.nro",
+      "filesize": 487027,
+      "extracted": 487030,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
