@@ -371,6 +371,23 @@
       "extracted": 487030,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "SWORD",
+      "title": "Swordigo",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Swordigo es un aclamado juego de plataformas y aventura de acción en 3D desarrollado por Touch Foo.\n\nCombina exploración clásica tipo Metroidvania con un sistema de progresión RPG, destacando por sus controles responsivos, exploración gratificante, excelente diseño de niveles y una cautivadora banda sonora\n\nJugabilidad y Controles: Ofrece una mecánica fluida con botones táctiles en pantalla que responden muy bien, permitiendo saltar, atacar, esquivar y lanzar hechizos con precisión\n\nExploración Recompensada: El mapa está lleno de secretos. Encontrarás cofres ocultos y áreas bloqueadas que requieren habilidades o herramientas específicas para ser exploradas más adelante\n\nProgresión RPG: A medida que derrotas enemigos, subes de nivel y mejoras tus estadísticas, además de desbloquear nuevas armas mágicas y poderes\n\nCombates contra Jefes: Las batallas principales representan un buen reto y requieren que aprendas los patrones de ataque de cada criatura\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/SWORD.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/swordigo/swordigo_nx.nro",
+      "filesize": 51487,
+      "extracted": 92268,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
