@@ -325,7 +325,7 @@
       "name": "CHRONO",
       "title": "Chrono Trigger",
       "author": "NaGaa",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Port Android",
       "details": "Chrono Trigger port Android es actualmente una de las mejores formas de disfrutar de este legendario JRPG. Ofrece una experiencia pulida, con soporte para pantallas táctiles y contenido expandido de la versión de Nintendo DS\n\nArte atemporal: El icónico diseño de personajes de Akira Toriyama se mantiene intacto y luce nítido en pantallas modernas de alta definición\n\nFiltros visuales: Se aplica un suavizado gráfico para pantallas HD. Aunque carece de la opción para alternar al pixel art original, el juego se ve limpio y fluido\n\nBanda sonora legendaria: La obra maestra de Yasunori Mitsuda y Nobuo Uematsu está completamente remasterizada, ofreciendo una inmersión acústica impecable\n\nCombate ATB dinámico: El sistema de batalla mantiene la barra de tiempo activo y la importancia del posicionamiento de los enemigos para los ataques en área\n\nControles táctiles: La interfaz táctil cumple su función, pero puede sentirse un poco imprecisa en secciones que exigen velocidad (como perseguir a la rata en el futuro)\n\nSoporte para mandos: Es altamente recomendable jugar con un control físico para obtener una experiencia fluida y precisa.\n\nExtras incluidos: Esta edición añade las mazmorras adicionales de las versiones modernas: el Vórtice dimensional y el Santuario del olvido\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
@@ -475,6 +475,23 @@
       "extracted": 3005543,
       "updated": "20/05/2026",
       "screens": 5
-    }
+    },
+    {
+      "name": "FINAL3",
+      "title": "Final Fantasy III 3D Remake",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Final Fantasy III 3D Remake transforma el clásico de NES de 1990 en una aventura tridimensional.\n\nDestaca por su icónico sistema de trabajos y gráficos renovados. Aunque aporta identidad a los protagonistas, el juego mantiene mazmorras exigentes y un pico de dificultad elevado que puede resultar frustrante\n\nSistema de Trabajos Mejorado: Incluye 20 clases intercambiables que permiten personalizar tu estrategia. Los roles están mejor equilibrados que en la versión original\n\nApartado Visual: El remodelado en 3D aportó un aire fresco y colorido que sirvió de base para títulos modernos como Bravely Default.\n\nPersonalidad: A diferencia de los guerreros sin nombre de la versión de NES, aquí controlas a Luneth, Arc, Refia e Ingis, quienes tienen un trasfondo y una historia desarrollados\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo_2/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/FINAL3.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/ff3_3d/ff3_3d_nx.nro",
+      "filesize": 406436,
+      "extracted": 420227,
+      "updated": "20/05/2026",
+      "screens": 5
+    },
   ]
 }
